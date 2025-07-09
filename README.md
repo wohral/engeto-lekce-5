@@ -4,3 +4,9 @@ Pridavam novy radekkk
 
 
 Tato slozka obsahuje i domaci ukoly
+
+Procvicili jsme si prikazy
+
+git add .
+git commit -m "Popis zmeny"
+git push
