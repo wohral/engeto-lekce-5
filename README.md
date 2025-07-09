@@ -10,5 +10,6 @@ Procvicili jsme si prikazy
 git add .
 git commit -m "Popis zmeny"
 git push
+git pull
 
 TESTUJEME, ZE FUNGUJE STAHOVANI Z REPOZITARE
